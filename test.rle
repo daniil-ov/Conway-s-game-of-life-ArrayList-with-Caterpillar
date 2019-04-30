@@ -1,0 +1,6 @@
+#C 17c/45 Caterpillar spaceship.
+#C Automatically assembled by Gabriel Nivasch.
+#C Design by Jason Summers, Gabriel Nivasch, and David Bell.
+#C 12/31/2004
+x = 5 , y = 4
+2bo$3bo$b3o!
